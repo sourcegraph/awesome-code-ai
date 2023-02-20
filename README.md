@@ -26,6 +26,10 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
 - [Cursor](https://www.cursor.so/) (editor, not yet released)
 
+## LLM-powered natural language compilers 
+
+- [Parsel 🐍](https://github.com/ezelikman/parsel)
+
 ## TODOs
 
 - Add other sections? (AI code refactoring tools, etc.?)
