@@ -14,6 +14,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
 - [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208) (not yet released)
+- [CodeComplete](https://codecomplete.ai)
 
 ## Code completion LLMs
 
