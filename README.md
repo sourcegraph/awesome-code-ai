@@ -25,6 +25,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 ## AI code assistants
 
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
+- [Buildt](https://www.buildt.ai/)
 - [Cursor](https://www.cursor.so/) (editor, not yet released)
 
 ## LLM-powered natural language compilers 
