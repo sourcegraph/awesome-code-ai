@@ -22,11 +22,12 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [OpenAI Codex](https://openai.com/blog/openai-codex/) (publicly available API)
 - [Internal Google model](https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
 
-## AI code assistants
+## AI code assistants/search
 
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
 - [Buildt](https://www.buildt.ai/)
 - [Cursor](https://www.cursor.so/) (editor, not yet released)
+- [Wizi](https://github.com/wizi-ai/code-search)
 
 ## LLM-powered natural language compilers 
 
