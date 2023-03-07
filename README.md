@@ -28,6 +28,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Buildt](https://www.buildt.ai/)
 - [Cursor](https://www.cursor.so/) (editor, not yet released)
 - [Wizi](https://github.com/wizi-ai/code-search)
+- [Phind](https://www.phind.com/)
 
 ## LLM-powered natural language compilers 
 
