@@ -15,6 +15,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
 - [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208) (not yet released)
 - [CodeComplete](https://codecomplete.ai)
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 - [Tabby](https://tabbyml.com) (open-source, not yet released)
 
 ## Code completion LLMs
@@ -30,6 +31,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Cursor](https://www.cursor.so/) (editor, not yet released)
 - [Wizi](https://github.com/wizi-ai/code-search)
 - [Phind](https://www.phind.com/)
+- [Safurai](https://www.safurai.com/)
 
 ## ChatGPT in your editor
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
