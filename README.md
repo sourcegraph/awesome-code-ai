@@ -15,6 +15,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
 - [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208) (not yet released)
 - [CodeComplete](https://codecomplete.ai)
+- [Tabby](https://tabbyml.com) (open-source, not yet released)
 
 ## Code completion LLMs
 
