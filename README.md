@@ -31,6 +31,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Wizi](https://github.com/wizi-ai/code-search)
 - [Phind](https://www.phind.com/)
 - [Safurai](https://www.safurai.com/)
+- [CensusGPT](https://censusgpt.com/)
 
 ## ChatGPT in your editor
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
