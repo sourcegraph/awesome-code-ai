@@ -12,6 +12,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Codeium](https://www.codeium.com/) ([comparison vs. other tools](https://www.codeium.com/blog/code-assistant-comparison-copilot-tabnine-ghostwriter-codeium))
 - [Tabnine](https://www.tabnine.com/)
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
+- [Codify](https://codify.smallcloud.ai/)
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
 - [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208) (not yet released)
 - [CodeComplete](https://codecomplete.ai)
@@ -22,6 +23,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Salesforce CodeGen](https://github.com/salesforce/CodeGen) (open-source)
 - [OpenAI Codex](https://openai.com/blog/openai-codex/) (publicly available API)
 - [Internal Google model](https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
+- [Codify](https://huggingface.co/smallcloudai) (open-source)
 
 ## AI code assistants/search
 
@@ -32,6 +34,8 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Phind](https://www.phind.com/)
 - [Safurai](https://www.safurai.com/)
 - [CensusGPT](https://censusgpt.com/)
+- [Codify](https://codify.smallcloud.ai/)
+
 
 ## ChatGPT in your editor
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
