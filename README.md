@@ -33,6 +33,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Phind](https://www.phind.com/)
 - [Safurai](https://www.safurai.com/)
 - [CensusGPT](https://censusgpt.com/)
+- [Autodoc](https://github.com/context-labs/autodoc)
 
 ## ChatGPT in your editor
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
