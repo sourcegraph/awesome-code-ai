@@ -12,7 +12,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Codeium](https://www.codeium.com/) ([comparison vs. other tools](https://www.codeium.com/blog/code-assistant-comparison-copilot-tabnine-ghostwriter-codeium))
 - [Tabnine](https://www.tabnine.com/)
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
-- [Codify](https://codify.smallcloud.ai/)
+- [Refact.ai](https://refact.ai/)
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
 - [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208) (not yet released)
 - [CodeComplete](https://codecomplete.ai)
