@@ -17,6 +17,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208) (not yet released)
 - [CodeComplete](https://codecomplete.ai)
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+- [GitLab Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html)
 
 ## Code completion LLMs
 
