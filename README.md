@@ -39,7 +39,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 ## ChatGPT in your editor
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
 - [org-ai](https://github.com/rksm/org-ai)
-- [Genie AI - ChatGPT - VS Code] (https://github.com/ai-genie/chatgpt-vscode)
+- [Genie AI - ChatGPT - VS Code](https://github.com/ai-genie/chatgpt-vscode)
 
 ## LLM-powered natural language compilers 
 
