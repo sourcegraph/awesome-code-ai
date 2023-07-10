@@ -9,15 +9,15 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 ## AI code completion tools
 
 - [GitHub Copilot](https://github.com/features/copilot)
-- [Codeium](https://www.codeium.com/) ([comparison vs. other tools](https://www.codeium.com/blog/code-assistant-comparison-copilot-tabnine-ghostwriter-codeium))
+- [Codeium](https://www.codeium.com/)
 - [Tabnine](https://www.tabnine.com/)
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
 - [Refact.ai](https://refact.ai/)
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
-- [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208) (not yet released)
 - [CodeComplete](https://codecomplete.ai)
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 - [GitLab Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html)
+- [Sourcegraph Cody](https://about.sourcegraph.com/cody)
 
 ## Code completion LLMs
 
@@ -35,6 +35,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Safurai](https://www.safurai.com/)
 - [CensusGPT](https://censusgpt.com/)
 - [Autodoc](https://github.com/context-labs/autodoc)
+- [Sourcegraph Cody](https://about.sourcegraph.com/cody)
 
 ## ChatGPT in your editor
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
