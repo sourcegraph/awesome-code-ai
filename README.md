@@ -36,6 +36,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [CensusGPT](https://censusgpt.com/)
 - [Autodoc](https://github.com/context-labs/autodoc)
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
+- [ZZZ Code AI](https://zzzcode.ai/)
 
 ## ChatGPT in your editor
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
