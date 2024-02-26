@@ -48,6 +48,9 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 
 - [Parsel 🐍](https://github.com/ezelikman/parsel)
 
+## Code Fixers
+- [Pixee](https://pixee.ai) | Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
+
 ## TODOs
 
 - Add other sections? (AI code refactoring tools, etc.?)
