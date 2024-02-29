@@ -18,6 +18,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 - [GitLab Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html)
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
+- [Obsidian copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion)
 
 ## Code completion LLMs
 
