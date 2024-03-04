@@ -38,6 +38,8 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
 - [ZZZ Code AI](https://zzzcode.ai/)
 - [StackSpot AI](https://ai.stackspot.com/)
+- [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
+
 
 ## ChatGPT in your editor
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
@@ -47,9 +49,6 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 ## LLM-powered natural language compilers 
 
 - [Parsel 🐍](https://github.com/ezelikman/parsel)
-
-## Code Fixers
-- [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 
 ## TODOs
 
