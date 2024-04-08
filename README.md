@@ -40,7 +40,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [ZZZ Code AI](https://zzzcode.ai/)
 - [StackSpot AI](https://ai.stackspot.com/)
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
-
+- [16x Prompt](https://prompt.16x.engineer/)
 
 ## ChatGPT in your editor
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
