@@ -29,7 +29,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 ## AI code assistants/search
 
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
-- [Buildt](https://www.buildt.ai/)
+- [Cosine](https://ai.cosine.sh/)
 - [Cursor](https://www.cursor.so/) (editor, not yet released)
 - [Wizi](https://github.com/wizi-ai/code-search)
 - [Phind](https://www.phind.com/)
