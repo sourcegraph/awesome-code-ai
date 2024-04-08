@@ -15,6 +15,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Refact.ai](https://refact.ai/)
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
 - [CodeComplete](https://codecomplete.ai)
+- [Continue](https://continue.dev/)
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 - [GitLab Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html)
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
