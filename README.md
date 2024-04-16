@@ -21,12 +21,14 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [GitLab Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html)
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
 - [Obsidian copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion)
+- [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)
 
 ## Code completion LLMs
 
 - [Salesforce CodeGen](https://github.com/salesforce/CodeGen) (open-source)
 - [OpenAI Codex](https://openai.com/blog/openai-codex/) (publicly available API)
 - [Internal Google model](https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
+- [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)
 
 ## AI code assistants/search
 
