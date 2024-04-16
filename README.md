@@ -28,6 +28,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Salesforce CodeGen](https://github.com/salesforce/CodeGen) (open-source)
 - [OpenAI Codex](https://openai.com/blog/openai-codex/) (publicly available API)
 - [Internal Google model](https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
+- [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)
 
 ## AI code assistants/search
 
