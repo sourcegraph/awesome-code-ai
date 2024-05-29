@@ -45,7 +45,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [16x Prompt](https://prompt.16x.engineer/)
 - [Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)
-
+- [Tune AI](https://chat.tune.app/): AI chat app powered by open source models
 ## ChatGPT in your editor
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
 - [org-ai](https://github.com/rksm/org-ai)
