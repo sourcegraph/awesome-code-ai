@@ -48,6 +48,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Plandex](https://github.com/plandex-ai/plandex)
 
 ## ChatGPT in your editor
+- [autocomplete.sh](https://github.com/closedLoop-technologies/autocomplete-sh)
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
 - [org-ai](https://github.com/rksm/org-ai)
 - [Genie AI - ChatGPT - VS Code](https://github.com/ai-genie/chatgpt-vscode)
