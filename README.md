@@ -57,6 +57,8 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 
 - [Parsel 🐍](https://github.com/ezelikman/parsel)
 
+## AI Powered Chatbot [No Code]
+- [MyBot.chat](https://mybot.chat) - Build Custom AI Chatbot powered by ChatGPT or Llama 3
 ## TODOs
 
 - Add other sections? (AI code refactoring tools, etc.?)
