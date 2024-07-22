@@ -57,6 +57,12 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 
 - [Parsel 🐍](https://github.com/ezelikman/parsel)
 
+## Similar Lists:
+- [Awesome-Ai-Analytics](https://github.com/Snowboard-Software/awesome-ai-analytics)
+- [Awesome-Ai-Agents](https://github.com/e2b-dev/awesome-ai-agents)
+- [Awesome-Ai-Tools](https://github.com/ikaijua/Awesome-AITools)
+- [Awesome Ai DevTools](https://github.com/jamesmurdza/awesome-ai-devtools)
+
 ## TODOs
 
 - Add other sections? (AI code refactoring tools, etc.?)
