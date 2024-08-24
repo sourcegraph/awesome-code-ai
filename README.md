@@ -47,6 +47,9 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)
 - [Plandex](https://github.com/plandex-ai/plandex)
 
+## AI code review
+- [CodeReviewBot](https://codereviewbot.ai)
+
 ## ChatGPT in your editor
 - [autocomplete.sh](https://github.com/closedLoop-technologies/autocomplete-sh)
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
