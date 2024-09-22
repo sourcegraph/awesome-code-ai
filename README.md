@@ -22,7 +22,8 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
 - [Obsidian copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion)
 - [JetBrains AI](https://www.jetbrains.com/ai/)
-
+- [Fine](https://fine.dev/?ref=ognaa_github)
+- 
 ## Code completion LLMs
 
 - [Salesforce CodeGen](https://github.com/salesforce/CodeGen) (open-source)
@@ -46,9 +47,11 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [16x Prompt](https://prompt.16x.engineer/)
 - [Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)
 - [Plandex](https://github.com/plandex-ai/plandex)
+- [Fine](https://fine.dev/?ref=ognaa_github) Fine syncs with your GitHub, Linear, Sentry and other tools, for full context awareness and search capabilities.
 
 ## AI code review
 - [CodeReviewBot](https://codereviewbot.ai)
+- [Fine](https://fine.dev/?ref=ognaa_github) Fine can review PRs and existing code, on-demand or by automated workflow.
 
 ## ChatGPT in your editor
 - [autocomplete.sh](https://github.com/closedLoop-technologies/autocomplete-sh)
@@ -59,6 +62,14 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 ## LLM-powered natural language compilers 
 
 - [Parsel 🐍](https://github.com/ezelikman/parsel)
+
+## AI Coding Agents
+- [Fine](https://fine.dev/?ref=ognaa_github) Create your own agentic workflows, synced with your codebase in Fine.
+
+## AI Debugging / Error Management
+- [Fine](https://fine.dev/?ref=ognaa_github) Syncs with error management tools to resolve issues as they arise.
+-  [Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)
+- [CodiumAI](https://www.codium.ai/)
 
 ## Similar Lists:
 - [Awesome-Ai-Analytics](https://github.com/Snowboard-Software/awesome-ai-analytics)
