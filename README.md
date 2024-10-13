@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of of AI coding tools (assistants, completion, refactoring, etc.).
+A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 [Open a pull request](https://github.com/sourcegraph/awesome-code-ai/pulls) to add or edit this list.
 
@@ -50,7 +50,18 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 ## AI code review
 - [CodeReviewBot](https://codereviewbot.ai)
 
+## AI code refactoring tools
+
+- [Codiga](https://www.codiga.io/) - Refactoring, code analysis, and recommendation platform.
+- [Refact.ai](https://refact.ai/) - AI-powered refactoring and code transformation tool.
+- [DeepCode](https://www.deepcode.ai/) - AI-based code analysis for finding bugs and offering refactoring suggestions.
+- [JetBrains Qodana](https://www.jetbrains.com/qodana/) - Offers automated code refactoring, security analysis, and technical debt management.
+- [Tabnine](https://www.tabnine.com/) - Offers assistance with code refactoring by providing AI-generated code improvements.
+- [Resharper](https://www.jetbrains.com/resharper/) - Provides AI-assisted code refactoring for .NET and other languages.
+- [Atomist](https://atomist.com/) - Allows automatic code modification and refactoring through "code transformations."
+
 ## ChatGPT in your editor
+
 - [autocomplete.sh](https://github.com/closedLoop-technologies/autocomplete-sh)
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
 - [org-ai](https://github.com/rksm/org-ai)
@@ -66,6 +77,4 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Awesome-Ai-Tools](https://github.com/ikaijua/Awesome-AITools)
 - [Awesome Ai DevTools](https://github.com/jamesmurdza/awesome-ai-devtools)
 
-## TODOs
-
-- Add other sections? (AI code refactoring tools, etc.?)
+---
