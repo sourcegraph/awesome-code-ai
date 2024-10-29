@@ -69,7 +69,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [org-ai](https://github.com/rksm/org-ai)
 - [Genie AI - ChatGPT - VS Code](https://github.com/ai-genie/chatgpt-vscode)
 
-## LLM-powered natural language compilers
+## LLM-powered natural language compilers 
 
 - [Parsel 🐍](https://github.com/ezelikman/parsel)
 
