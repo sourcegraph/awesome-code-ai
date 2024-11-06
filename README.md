@@ -46,6 +46,8 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [16x Prompt](https://prompt.16x.engineer/)
 - [Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)
 - [Plandex](https://github.com/plandex-ai/plandex)
+- [Potpie](https://potpie.ai)
+- [Aider](https://aider.chat)
 
 ## AI code review
 - [CodeReviewBot](https://codereviewbot.ai)
