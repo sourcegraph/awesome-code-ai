@@ -61,7 +61,8 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Tabnine](https://www.tabnine.com/) - Offers assistance with code refactoring by providing AI-generated code improvements.
 - [Resharper](https://www.jetbrains.com/resharper/) - Provides AI-assisted code refactoring for .NET and other languages.
 - [Atomist](https://atomist.com/) - Allows automatic code modification and refactoring through "code transformations."
-
+- [Test Gru](https://gru.ai/) - Provides enterprise-level unit test automation services.
+  
 ## ChatGPT in your editor
 
 - [autocomplete.sh](https://github.com/closedLoop-technologies/autocomplete-sh)
