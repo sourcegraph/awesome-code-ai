@@ -62,6 +62,10 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Resharper](https://www.jetbrains.com/resharper/) - Provides AI-assisted code refactoring for .NET and other languages.
 - [Atomist](https://atomist.com/) - Allows automatic code modification and refactoring through "code transformations."
 - [Test Gru](https://gru.ai/) - Provides enterprise-level unit test automation services.
+
+## AI code security
+
+- [CodeGate](https://codegate.ai) - An open-source, privacy-focused project that acts as a layer of security within a developers Code Generation AI workflow.
   
 ## ChatGPT in your editor
 
