@@ -49,6 +49,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Potpie](https://potpie.ai)
 - [Aider](https://aider.chat)
 - [Fynix](https://fynix.ai) - AI coding assistant to help developers throughout SDLC.
+- [Memex](https://memex.tech/) - Your desktop AI that turns words into working apps. Native for Mac, Linux, and Windows.
 
 
 ## AI code review
