@@ -68,7 +68,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 ## AI code security
 
-- [CodeGate](https://codegate.ai) - An open-source, privacy-focused project that acts as a layer of security within a developers Code Generation AI workflow.
+- [CodeGate](https://github.com/stacklok/codegate) - AI coding without compromise. CodeGate protects, encrypts, and keeps developers in control when using AI coding assistant tools.
   
 ## ChatGPT in your editor
 
