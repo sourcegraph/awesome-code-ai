@@ -22,6 +22,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
 - [Obsidian copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion)
 - [JetBrains AI](https://www.jetbrains.com/ai/)
+- [TabbyML](https://github.com/TabbyML/tabby)
 
 ## Code completion LLMs
 
