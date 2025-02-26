@@ -8,6 +8,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 ## AI code completion tools
 
+- [Google Gemini Code Assist](https://codeassist.google)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [CodiumAI](https://www.codium.ai/)
 - [Codeium](https://www.codeium.com/)
