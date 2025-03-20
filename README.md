@@ -50,6 +50,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Plandex](https://github.com/plandex-ai/plandex)
 - [Potpie](https://potpie.ai)
 - [Aider](https://aider.chat)
+- [PoorCoder](https://github.com/vgrichina/poorcoder) – set of Unix-style scripts to assist coding using AI apps like Claude, Grok, ChatGPT, etc
 - [Fynix](https://fynix.ai) - AI coding assistant to help developers throughout SDLC.
 - [Memex](https://memex.tech/) - Your desktop AI that turns words into working apps. Native for Mac, Linux, and Windows.
 
