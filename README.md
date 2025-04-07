@@ -18,7 +18,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
 - [CodeComplete](https://codecomplete.ai)
 - [Continue](https://continue.dev/)
-- [Amazon Q Developer]([https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el))
+- [Amazon Q Developer](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)
 - [GitLab Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html)
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
 - [Obsidian copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion)
@@ -58,7 +58,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 ## AI code review
 - [CodeReviewBot](https://codereviewbot.ai)
-- [Amazon Q Developer - (/review)]([https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)) - Amazon Q Developer Agent can review your codebase for security vulnerabilities and code quality issues
+- [Amazon Q Developer (/review)](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Amazon Q Developer Agent can review your codebase for security vulnerabilities and code quality issues
 
 ## AI code refactoring tools
 
@@ -70,7 +70,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Resharper](https://www.jetbrains.com/resharper/) - Provides AI-assisted code refactoring for .NET and other languages.
 - [Atomist](https://atomist.com/) - Allows automatic code modification and refactoring through "code transformations."
 - [Test Gru](https://gru.ai/) - Provides enterprise-level unit test automation services.
-- [Amazon Q Developer (/transform]([https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)) - Enables you to upgrade Java, .NET, and Cobol code
+- [Amazon Q Developer (/transform)](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Enables you to upgrade Java, .NET, and Cobol code
 
 ## AI code security
 
