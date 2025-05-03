@@ -38,6 +38,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Cursor](https://www.cursor.sh/) (editor)
 - [Wizi](https://github.com/wizi-ai/code-search)
 - [Phind](https://www.phind.com/)
+- [Vibe Compiler (vibec)](https://github.com/grishingrishin/vibe-compiler) - A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation via OpenRouter
 - [Safurai](https://www.safurai.com/)
 - [CensusGPT](https://censusgpt.com/)
 - [Autodoc](https://github.com/context-labs/autodoc)
