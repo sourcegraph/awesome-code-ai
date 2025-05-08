@@ -38,7 +38,6 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Cursor](https://www.cursor.sh/) (editor)
 - [Wizi](https://github.com/wizi-ai/code-search)
 - [Phind](https://www.phind.com/)
-- [Vibe Compiler (vibec)](https://github.com/Strawberry-Computer/vibe-compiler) - A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation via OpenRouter
 - [Safurai](https://www.safurai.com/)
 - [CensusGPT](https://censusgpt.com/)
 - [Autodoc](https://github.com/context-labs/autodoc)
@@ -88,6 +87,8 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 ## LLM-powered natural language compilers 
 
 - [Parsel 🐍](https://github.com/ezelikman/parsel)
+- [Vibe Compiler (vibec)](https://github.com/Strawberry-Computer/vibe-compiler) - A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation via OpenRouter
+
 
 ## Similar Lists:
 - [Awesome-Ai-Analytics](https://github.com/Snowboard-Software/awesome-ai-analytics)
