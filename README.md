@@ -73,9 +73,9 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Test Gru](https://gru.ai/) - Provides enterprise-level unit test automation services.
 - [Amazon Q Developer (/transform)](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Enables you to upgrade Java, .NET, and Cobol code
 
-## AI code security
+## Model Context Protocol (MCP)
+- [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
 
-- [CodeGate](https://github.com/stacklok/codegate) - AI coding without compromise. CodeGate protects, encrypts, and keeps developers in control when using AI coding assistant tools.
   
 ## ChatGPT in your editor
 
