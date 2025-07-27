@@ -63,7 +63,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Kiro](https://kiro.dev/)
 - [Augment](https://www.augmentcode.com/)
 - [Poolside](https://poolside.ai/)
-- [SourceGraph amp](https://sourcegraph.com/amp)
+- [SourceGraph Amp Code](https://sourcegraph.com/amp)
 
 
 ## AI code review
