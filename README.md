@@ -18,7 +18,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
 - [CodeComplete](https://codecomplete.ai)
 - [Continue](https://continue.dev/)
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+- [Amazon Q Developer](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)
 - [GitLab Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html)
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
 - [Obsidian copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion)
@@ -50,13 +50,18 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Plandex](https://github.com/plandex-ai/plandex)
 - [Potpie](https://potpie.ai)
 - [Aider](https://aider.chat)
+- [PoorCoder](https://github.com/vgrichina/poorcoder) – set of Unix-style scripts to assist coding using AI apps like Claude, Grok, ChatGPT, etc
 - [Fynix](https://fynix.ai) - AI coding assistant to help developers throughout SDLC.
 - [Memex](https://memex.tech/) - Your desktop AI that turns words into working apps. Native for Mac, Linux, and Windows.
+- [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. It works with many terminals and shells, on MacOS, Linux and Windows (via wsl).
+- [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
 - [Berrry](https://berrry.app) - AI-powered platform that transforms social media posts into functional web applications. Turn Twitter posts and Reddit content into complete apps with unique subdomains.
 
 
 ## AI code review
 - [CodeReviewBot](https://codereviewbot.ai)
+- [Amazon Q Developer (/review)](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Amazon Q Developer Agent can review your codebase for security vulnerabilities and code quality issues.
+- [Glide](https://useglide.ai) - Structured pull request walkthroughs.
 
 ## AI code refactoring tools
 
@@ -68,10 +73,11 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Resharper](https://www.jetbrains.com/resharper/) - Provides AI-assisted code refactoring for .NET and other languages.
 - [Atomist](https://atomist.com/) - Allows automatic code modification and refactoring through "code transformations."
 - [Test Gru](https://gru.ai/) - Provides enterprise-level unit test automation services.
+- [Amazon Q Developer (/transform)](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Enables you to upgrade Java, .NET, and Cobol code
 
-## AI code security
+## Model Context Protocol (MCP)
+- [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
 
-- [CodeGate](https://github.com/stacklok/codegate) - AI coding without compromise. CodeGate protects, encrypts, and keeps developers in control when using AI coding assistant tools.
   
 ## ChatGPT in your editor
 
@@ -83,6 +89,8 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 ## LLM-powered natural language compilers 
 
 - [Parsel 🐍](https://github.com/ezelikman/parsel)
+- [Vibe Compiler (vibec)](https://github.com/Strawberry-Computer/vibe-compiler) - A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation via OpenRouter
+
 
 ## Similar Lists:
 - [Awesome-Ai-Analytics](https://github.com/Snowboard-Software/awesome-ai-analytics)
