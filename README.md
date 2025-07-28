@@ -52,6 +52,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Aider](https://aider.chat)
 - [Fynix](https://fynix.ai) - AI coding assistant to help developers throughout SDLC.
 - [Memex](https://memex.tech/) - Your desktop AI that turns words into working apps. Native for Mac, Linux, and Windows.
+- [Berrry](https://berrry.app) - AI-powered platform that transforms social media posts into functional web applications. Turn Twitter posts and Reddit content into complete apps with unique subdomains.
 
 
 ## AI code review
