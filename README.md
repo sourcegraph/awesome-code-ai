@@ -29,6 +29,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 - [Salesforce CodeGen](https://github.com/salesforce/CodeGen) (open-source)
 - [OpenAI Codex](https://openai.com/blog/openai-codex/) (publicly available API)
+- [OpenAI Codex CLI](https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started)
 - [Internal Google model](https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
 
 ## AI code assistants/search
@@ -36,6 +37,9 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
 - [Cosine](https://ai.cosine.sh/)
 - [Cursor](https://www.cursor.sh/) (editor)
+- [Cline](https://cline.bot/)
+- [Claude Code](https://www.anthropic.com/claude-code)
+- [Windsurf](https://windsurf.com/)
 - [Wizi](https://github.com/wizi-ai/code-search)
 - [Phind](https://www.phind.com/)
 - [Safurai](https://www.safurai.com/)
@@ -55,6 +59,11 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Memex](https://memex.tech/) - Your desktop AI that turns words into working apps. Native for Mac, Linux, and Windows.
 - [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. It works with many terminals and shells, on MacOS, Linux and Windows (via wsl).
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
+- [Atlassian Rovo](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface)
+- [Kiro](https://kiro.dev/)
+- [Augment](https://www.augmentcode.com/)
+- [Poolside](https://poolside.ai/)
+- [Sourcegraph Amp](https://ampcode.com/)
 
 
 ## AI code review
