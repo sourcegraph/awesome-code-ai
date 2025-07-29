@@ -59,6 +59,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Memex](https://memex.tech/) - Your desktop AI that turns words into working apps. Native for Mac, Linux, and Windows.
 - [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. It works with many terminals and shells, on MacOS, Linux and Windows (via wsl).
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
+- [Berrry](https://berrry.app) - AI-powered platform that transforms social media posts into functional web applications. Turn Twitter posts and Reddit content into complete apps with unique subdomains.
 - [Atlassian Rovo](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface)
 - [Kiro](https://kiro.dev/)
 - [Augment](https://www.augmentcode.com/)
