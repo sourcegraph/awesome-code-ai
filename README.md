@@ -46,7 +46,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [CensusGPT](https://censusgpt.com/)
 - [Autodoc](https://github.com/context-labs/autodoc)
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
-- [TraceRoot AI](https://github.com/traceroot-ai/traceroot)
+- [TraceRoot AI](https://github.com/traceroot-ai/traceroot) - AI agents that automatically fix your production bugs
 - [ZZZ Code AI](https://zzzcode.ai/)
 - [StackSpot AI](https://ai.stackspot.com/)
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
