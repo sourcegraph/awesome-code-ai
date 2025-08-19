@@ -72,6 +72,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [CodeReviewBot](https://codereviewbot.ai)
 - [Amazon Q Developer (/review)](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Amazon Q Developer Agent can review your codebase for security vulnerabilities and code quality issues.
 - [Glide](https://useglide.ai) - Structured pull request walkthroughs.
+- [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 
 ## AI code refactoring tools
 
