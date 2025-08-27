@@ -74,6 +74,9 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Glide](https://useglide.ai) - Structured pull request walkthroughs.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 
+## AI Code Performance Tools 
+- [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
+
 ## AI code refactoring tools
 
 - [Codiga](https://www.codiga.io/) - Refactoring, code analysis, and recommendation platform.
