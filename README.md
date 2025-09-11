@@ -101,6 +101,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 ## LLM-powered natural language compilers 
 
 - [Parsel 🐍](https://github.com/ezelikman/parsel)
+- [unpkg.ai](https://unpkg.ai) - AI-powered ESM module generation service that creates JavaScript modules from natural language descriptions
 - [Vibe Compiler (vibec)](https://github.com/Strawberry-Computer/vibe-compiler) - A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation via OpenRouter
 
 
