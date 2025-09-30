@@ -88,6 +88,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Amazon Q Developer (/transform)](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Enables you to upgrade Java, .NET, and Cobol code
 
 ## Model Context Protocol (MCP)
+- [Roundtable MCP Server](https://github.com/askbudi/roundtable) – Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface
 - [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
 
   
