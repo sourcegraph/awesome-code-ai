@@ -35,6 +35,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 ## AI code assistants/search
 
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
+- [Capacity](https://capacity.so)
 - [Cosine](https://ai.cosine.sh/)
 - [Cursor](https://www.cursor.sh/) (editor)
 - [Cline](https://cline.bot/)
