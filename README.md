@@ -67,6 +67,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Augment](https://www.augmentcode.com/)
 - [Poolside](https://poolside.ai/)
 - [Sourcegraph Amp](https://ampcode.com/)
+- [OutcomeOps](https://github.com/bcarpio/outcome-ops-ai-assist) - Context engineering for AI-assisted development. Ingests ADRs, code-maps, and organizational patterns to generate code matching your standards.
 
 
 ## AI code review
