@@ -40,6 +40,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Cursor](https://www.cursor.sh/) (editor)
 - [Cline](https://cline.bot/)
 - [Claude Code](https://www.anthropic.com/claude-code)
+- [Agentic Sprint](https://github.com/damienlaine/agentic-sprint) - Spec-driven, self-iterative multi-agent framework for Claude Code with coordinated specialized agents (Python, Next.js, QA, UI Testing)
 - [Windsurf](https://windsurf.com/)
 - [Wizi](https://github.com/wizi-ai/code-search)
 - [Phind](https://www.phind.com/)
