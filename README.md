@@ -114,3 +114,5 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Awesome Ai DevTools](https://github.com/jamesmurdza/awesome-ai-devtools)
 
 ---
+
+- [AgentsKB](https://agentskb.com) - Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.
