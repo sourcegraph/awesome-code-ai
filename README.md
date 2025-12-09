@@ -14,20 +14,20 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Codeium](https://www.codeium.com/) - Free AI-powered code acceleration toolkit with autocomplete and search.
 - [Tabnine](https://www.tabnine.com/) - AI assistant that provides code completions based on context and syntax.
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter) - AI-powered coding assistant integrated into Replit's online IDE.
-- [Refact.ai](https://refact.ai/) - Open-source AI coding assistant with code completion and refactoring capabilities.
-- [FauxPilot](https://github.com/fauxpilot/fauxpilot) - Open-source, self-hosted alternative to GitHub Copilot.
+- [Refact.ai](https://refact.ai/) - Open Source AI coding assistant with code completion and refactoring capabilities.
+- [FauxPilot](https://github.com/fauxpilot/fauxpilot) - Open Source, self-hosted alternative to GitHub Copilot.
 - [CodeComplete](https://codecomplete.ai) - Self-hosted AI code completion assistant for enterprise.
-- [Continue](https://continue.dev/) - Open-source autopilot for VS Code and JetBrains that connects to any LLM.
+- [Continue](https://continue.dev/) - Open Source autopilot for VS Code and JetBrains that connects to any LLM.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - AI-powered assistant from AWS for software development tasks.
 - [GitLab Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html) - AI-powered code suggestions integrated into GitLab's workflow.
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody) - AI coding assistant that uses your codebase as context.
 - [Obsidian copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion) - AI-powered auto-completion plugin for Obsidian note-taking app.
 - [JetBrains AI](https://www.jetbrains.com/ai/) - AI assistant integrated into JetBrains IDEs for code completion and chat.
-- [TabbyML](https://github.com/TabbyML/tabby) - Self-hosted, open-source AI coding assistant.
+- [TabbyML](https://github.com/TabbyML/tabby) - Self-hosted, Open Source AI coding assistant.
 
 ## Code completion LLMs
 
-- [Salesforce CodeGen](https://github.com/salesforce/CodeGen) - Open-source large language model for program synthesis.
+- [Salesforce CodeGen](https://github.com/salesforce/CodeGen) - Open Source large language model for program synthesis.
 - [OpenAI Codex](https://openai.com/blog/openai-codex/) - AI system that translates natural language to code via publicly available API.
 - [OpenAI Codex CLI](https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started) - Command-line tool for using OpenAI's Codex model.
 - [Internal Google model](https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html) - Google's ML-enhanced code completion system for internal developer productivity.
