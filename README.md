@@ -69,6 +69,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Augment](https://www.augmentcode.com/) - Context-aware completions for enterprise teams.
 - [Poolside](https://poolside.ai/) - Assistant specialized in software engineering tasks.
 - [Sourcegraph Amp](https://ampcode.com/) - Agent that helps you build, debug, and understand code.
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, agentic workflows, Python & JS SDKs.
 
 
 ## Code review
