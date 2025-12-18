@@ -78,6 +78,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Glide](https://useglide.ai) - Structured pull request walkthroughs.
 - [Gito](https://github.com/Nayjest/Gito) - Reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 - [Perfect.Codes](https://perfect.codes) - Gets your bugs fixed quickly by tech experts.
+- [Baz CLI](https://github.com/baz-scm/baz-cli) - AI-assisted code review in the terminal, with tools such as walkthrough, comment, approve and merge.
 
 
 ## Code refactoring tools
