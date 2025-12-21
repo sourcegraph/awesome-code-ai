@@ -69,6 +69,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Augment](https://www.augmentcode.com/) - Context-aware completions for enterprise teams.
 - [Poolside](https://poolside.ai/) - Assistant specialized in software engineering tasks.
 - [Sourcegraph Amp](https://ampcode.com/) - Agent that helps you build, debug, and understand code.
+- [Blank Space](https://www.blankspace.build/) - Open Source AI app builder for creating web applications using natural language.
 
 
 ## Code review
