@@ -69,6 +69,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Augment](https://www.augmentcode.com/) - Context-aware completions for enterprise teams.
 - [Poolside](https://poolside.ai/) - Assistant specialized in software engineering tasks.
 - [Sourcegraph Amp](https://ampcode.com/) - Agent that helps you build, debug, and understand code.
+- [PhenixCode](https://github.com/nesall/phenixcode) - Privacy-focused, self-hosted RAG assistant for querying codebases with local or cloud LLMs.
 
 
 ## Code review
