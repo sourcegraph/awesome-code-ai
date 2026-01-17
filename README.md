@@ -42,6 +42,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Cursor](https://www.cursor.sh/) - Code editor built for pair programming with a language model.
 - [Cline](https://cline.bot/) - Autonomous coding agent that can use your CLI and editor.
 - [Claude Code](https://www.anthropic.com/claude-code) - Agentic coding tool that lives in your terminal.
+- [OpenWork](https://github.com/different-ai/openwork) - Desktop GUI for OpenCode with sessions, skills, plugins, and templates in one place.
 - [Windsurf](https://windsurf.com/) - IDE optimized for collaboration between developers and assistants.
 - [Wizi](https://github.com/wizi-ai/code-search) - Code search across repositories with natural language.
 - [Phind](https://www.phind.com/) - Search engine optimized for developers and technical questions.
