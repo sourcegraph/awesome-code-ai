@@ -43,6 +43,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Cline](https://cline.bot/) - Autonomous coding agent that can use your CLI and editor.
 - [Claude Code](https://www.anthropic.com/claude-code) - Agentic coding tool that lives in your terminal.
 - [Windsurf](https://windsurf.com/) - IDE optimized for collaboration between developers and assistants.
+- [Open Agent](https://github.com/Th0rgal/openagent) - Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
 - [Wizi](https://github.com/wizi-ai/code-search) - Code search across repositories with natural language.
 - [Phind](https://www.phind.com/) - Search engine optimized for developers and technical questions.
 - [Safurai](https://www.safurai.com/) - Assistant for generation, refactoring, and debugging.
