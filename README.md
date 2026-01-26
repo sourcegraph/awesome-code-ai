@@ -78,6 +78,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Glide](https://useglide.ai) - Structured pull request walkthroughs.
 - [Gito](https://github.com/Nayjest/Gito) - Reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 - [Perfect.Codes](https://perfect.codes) - Gets your bugs fixed quickly by tech experts.
+- [Zenable](https://zenable.io/) - AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 
 
 ## Code refactoring tools
