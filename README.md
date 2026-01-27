@@ -97,6 +97,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 - [Roundtable MCP Server](https://github.com/askbudi/roundtable) – Zero-configuration MCP server that unifies multiple coding assistants (Codex, Claude Code, Cursor, Gemini) through auto-discovery and a standard interface.
 - [ToolHive](https://github.com/stacklok/toolhive) – Helps find the right MCP server for your task and deploy it with one click.
+- [vsync](https://github.com/nicepkg/vsync) - Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion.
 
 
 ## ChatGPT in your editor
