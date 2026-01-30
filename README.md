@@ -69,6 +69,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Augment](https://www.augmentcode.com/) - Context-aware completions for enterprise teams.
 - [Poolside](https://poolside.ai/) - Assistant specialized in software engineering tasks.
 - [Sourcegraph Amp](https://ampcode.com/) - Agent that helps you build, debug, and understand code.
+- [Tokscale](https://github.com/junhoyeo/tokscale) - CLI for tracking token usage across AI coding agents (Claude Code, OpenClaw, Codex, Gemini CLI, Cursor, AmpCode) with global leaderboard and contribution graphs.
 
 
 ## Code review
