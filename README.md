@@ -61,6 +61,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [PoorCoder](https://github.com/vgrichina/poorcoder) – Unix-style scripts to assist coding using tools like Claude, Grok, and ChatGPT.
 - [Fynix](https://fynix.ai) - Assistant to help developers throughout the SDLC.
 - [Memex](https://memex.tech/) - Desktop app that turns natural language into working apps on Mac, Linux, and Windows.
+- [MyVibe](https://myvibe.so/) - Platform for instantly deploying AI-generated web apps. Publish via Claude Code skills or direct upload.
 - [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI for command completion, translation from intent to commands, and agentic chat with context.
 - [Kilo Code](https://kilocode.ai) - Open Source assistant for planning, building, and fixing code inside VS Code.
 - [Berrry](https://berrry.app) - Transforms social media posts into functional web apps with unique subdomains.
