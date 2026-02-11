@@ -2,6 +2,9 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> [!IMPORTANT]
+> This repository is now archived. Thank you to all contributors for your valuable contributions!
+
 A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 [Open a pull request](https://github.com/sourcegraph/awesome-code-ai/pulls) to add or edit this list.
