@@ -58,6 +58,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Plandex](https://github.com/plandex-ai/plandex) - Engine for complex, multi-file tasks with version control integration.
 - [Potpie](https://potpie.ai) - Platform for creating custom engineering assistants.
 - [Aider](https://aider.chat) - Pair programming tool in your terminal that works with local git repos.
+- [GenCode](https://github.com/yanmxa/gencode) - Open-source terminal AI assistant with multi-provider support (Anthropic, OpenAI, Gemini, Moonshot) and a Claude Code-compatible skill/agent system.
 - [PoorCoder](https://github.com/vgrichina/poorcoder) – Unix-style scripts to assist coding using tools like Claude, Grok, and ChatGPT.
 - [Fynix](https://fynix.ai) - Assistant to help developers throughout the SDLC.
 - [Memex](https://memex.tech/) - Desktop app that turns natural language into working apps on Mac, Linux, and Windows.
