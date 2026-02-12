@@ -71,6 +71,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Kiro](https://kiro.dev/) - IDE designed for spec-driven development with automated documentation.
 - [Augment](https://www.augmentcode.com/) - Context-aware completions for enterprise teams.
 - [Poolside](https://poolside.ai/) - Assistant specialized in software engineering tasks.
+- [Taskade](https://taskade.com) - AI-powered workspace with custom AI agents, multi-model support (GPT, Claude, Gemini), workflow automation, and code generation via natural language.
 - [Sourcegraph Amp](https://ampcode.com/) - Agent that helps you build, debug, and understand code.
 
 
