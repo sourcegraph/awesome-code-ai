@@ -123,6 +123,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Awesome-Ai-Agents](https://github.com/e2b-dev/awesome-ai-agents) - Curated list of agents and autonomous agent frameworks.
 - [Awesome-Ai-Tools](https://github.com/ikaijua/Awesome-AITools) - Collection of tools across many categories.
 - [Awesome Ai DevTools](https://github.com/jamesmurdza/awesome-ai-devtools) - Developer-focused tools and resources powered by language models.
+- [Awesome Vibe Coding](https://github.com/taskade/awesome-vibe-coding) - Curated list of vibe coding tools, platforms, and resources for building software through natural language prompts.
 
 
 
