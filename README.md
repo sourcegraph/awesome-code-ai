@@ -72,6 +72,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Augment](https://www.augmentcode.com/) - Context-aware completions for enterprise teams.
 - [Poolside](https://poolside.ai/) - Assistant specialized in software engineering tasks.
 - [Sourcegraph Amp](https://ampcode.com/) - Agent that helps you build, debug, and understand code.
+- [Nimbalyst](https://nimbalyst.com) - Agent management environment for Claude Code and Codex. Interactive visual editor (for markdown, mockups, excalidraw) and session manager.
 
 
 ## Code review
