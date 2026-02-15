@@ -39,7 +39,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 ## Code assistants and search
 
-- [Replit Ghostwriter](https://replit.com/site/ghostwriter) - Embedded assistant in Replit’s IDE for suggestions and edits.
+- [Replit Ghostwriter](https://replit.com/site/ghostwriter) - Embedded assistant in Replit's IDE for suggestions and edits.
 - [Capacity](https://capacity.so) - Platform for automating support and workflows with conversational interfaces.
 - [Cosine](https://ai.cosine.sh/) - Assistant that understands your codebase for accurate generation.
 - [Cursor](https://www.cursor.sh/) - Code editor built for pair programming with a language model.
@@ -91,9 +91,14 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [JetBrains Qodana](https://www.jetbrains.com/qodana/) - Automated refactoring, security checks, and technical debt management.
 - [Tabnine](https://www.tabnine.com/) - Suggests improvements that support refactoring flows.
 - [Resharper](https://www.jetbrains.com/resharper/) - Refactoring support for .NET and other languages.
-- [Atomist](https://atomist.com/) - Automatic code modification and refactoring via “code transformations.”
+- [Atomist](https://atomist.com/) - Automatic code modification and refactoring via "code transformations."
 - [Test Gru](https://gru.ai/) - Enterprise-level unit test automation services.
 - [Amazon Q Developer (/transform)](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Helps upgrade Java, .NET, and Cobol code.
+
+
+## Configuration and Setup Tools
+
+- [CursorRules Pro](https://github.com/Wittlesus/cursorrules-pro) - Pre-built .cursorrules configurations for 8 popular frameworks (React, Next.js, Vue, Python, etc.). Works with Cursor, Cline, Windsurf, and Claude Code to provide framework-specific AI assistant behavior.
 
 
 ## Model Context Protocol (MCP)
