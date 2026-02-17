@@ -26,6 +26,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody) - Uses your codebase as context for completions and edits.
 - [Obsidian copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion) - Auto-completion plugin for Obsidian.
 - [JetBrains AI](https://www.jetbrains.com/ai/) - Assistant integrated into JetBrains IDEs for completion and chat.
+- [dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/) - AI-powered SQL coding tool, integrated into dbForge products.
 - [TabbyML](https://github.com/TabbyML/tabby) - Self-hosted, Open Source coding assistant.
 
 
