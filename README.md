@@ -98,6 +98,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 ## Model Context Protocol (MCP)
 
+- [Lassare](https://github.com/lassare-hq/agent-configs) – Your AI coding agent asks you questions and requests approvals via Slack — so you can respond from your phone, while AFK.
 - [Roundtable MCP Server](https://github.com/askbudi/roundtable) – Zero-configuration MCP server that unifies multiple coding assistants (Codex, Claude Code, Cursor, Gemini) through auto-discovery and a standard interface.
 - [ToolHive](https://github.com/stacklok/toolhive) – Helps find the right MCP server for your task and deploy it with one click.
 
