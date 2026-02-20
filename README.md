@@ -98,6 +98,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 ## Model Context Protocol (MCP)
 
+- [debug-mcp.net](https://github.com/jkolo/debug-mcp) – MCP server for .NET debugging with 34 AI-accessible tools via ICorDebug APIs.
 - [Roundtable MCP Server](https://github.com/askbudi/roundtable) – Zero-configuration MCP server that unifies multiple coding assistants (Codex, Claude Code, Cursor, Gemini) through auto-discovery and a standard interface.
 - [ToolHive](https://github.com/stacklok/toolhive) – Helps find the right MCP server for your task and deploy it with one click.
 
